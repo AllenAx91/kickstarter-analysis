@@ -55,10 +55,17 @@ Clearly, as the goals proceed to be extremely ambitious, the percentage of succe
 ## 4. Conclusion 
 
 The month of May is probably the most successful because of the general outlook of the publicity in this season. It is during the spring that people are more than happy to indulge in leisure activities. This information will prove to be extremely useful for Louise's scheduling. One must also pay attention to the fact that the total number of campaigns in May is the highest of the year. This signifies that there is more to just launching a campaign in May. The competition is higher as more campaigns happen in the vicinity. Perhaps, a collaboration with other upcoming artists to hold joint campaigns can be considered. Also, It would be pragmatic for Louise to marginally mark down her initial campaign goal as the percentage of successful campaigns is significantly higher below the goal range of 10000 to 14999.
-
-Attached with this report is also the excel file named ["Kickstarter_Challenge.xlsx"](https://github.com/AllenAx91/kickstarter-analysis/blob/main/Kickstarter_Challenge.xlsx) that has been set up to help Louise derive more information.  
-
+ 
 ## 5. Limitations
 
 The data is only a sample size as it was retrieved from a single website. Lousie will have to do a similar analysis based on data from other sources to validate the results explained in Section 4 "Conclusion" of this report. 
+
+## 6. Recommendations 
+
+In addition to the analysis performed, Louise has access to the excel file named ["Kickstarter_Challenge.xlsx"](https://github.com/AllenAx91/kickstarter-analysis/blob/main/Kickstarter_Challenge.xlsx) that has been set up to help Louise derive more conclusions. Here are some of the recommended analyses that could be performed are: 
+   1) Box charts to determine and rule out outliers
+   2) Barcharts to display which subcategory proved to be more successful
+   3) Filters can be updated to include country and then Line charts can be brought up to see how location influences outcomes
+
+    
 
