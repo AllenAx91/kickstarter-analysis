@@ -23,7 +23,7 @@ On confirming that the data was readable, we performed some statistical analyses
 ### 3.2. Analysis of Outcomes Based on Launch Date
 
 #### 3.2.1. Analysis through Data Visualization
-For this analysis, a line chart was generated using excel to portray the influence of the launch date on the outcomes of various campaigns since 2015. The X-Axis and Y-Axis represent the "**Count of Outcomes**" and "**Months of the year**" respectively.
+For this analysis, a line chart was generated using excel to portray the influence of the launch date on the outcomes of theater campaigns since 2015. The X-Axis and Y-Axis represent the "**Count of Outcomes**" and "**Months of the year**" respectively.
 The representations of the coloured lines are as listed below:
  * Blue: Successful Campaigns
  * Orange: Failed Campaigns 
